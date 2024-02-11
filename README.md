@@ -1,4 +1,4 @@
-![logo](https://github.com/PantDivya/PantDivya/blob/main/GitBanner.png)
+![logo](https://github.com/PantDivya/PantDivya/blob/main/Git_Banner.gif)
 <h1 align="center">Hi 👋, I'm Divya Pant</h1>
 <h3 align="center">An IT enthusiast, learner and student.</h3>
 
