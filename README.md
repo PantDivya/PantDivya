@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **divyapant@gmail.com**
 
-- ⚡ Fun fact **I like cooking**
+- ⚡ Fun fact **I like listening to music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
