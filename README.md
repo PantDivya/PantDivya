@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 📫 How to reach me **divyapant@gmail.com**
+- 📫 How to reach me **divyapant108@gmail.com**
 
 - ⚡ Fun fact **I like listening to music**
 
